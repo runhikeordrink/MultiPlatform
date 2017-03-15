@@ -1,0 +1,39 @@
+C:\Users\Daddio\AppData\Local\Temporary Projects\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.exe.config
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.exe.config
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.exe
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.pdb
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.xml
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmDPv2.resources
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmPlayerSelect.resources
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmStuff.resources
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.Resources.resources
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.vbproj.GenerateResource.Cache
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.exe
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.xml
+C:\Users\Daddio\Documents\Visual Studio 2012\Projects\DailyPlayers_v2\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.pdb
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.exe.config
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.exe
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.xml
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.pdb
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.exe
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.pdb
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.xml
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.vbprojResolveAssemblyReference.cache
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmDPv2.resources
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmPlayerSelect.resources
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmStuff.resources
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.Resources.resources
+C:\Users\Daddio\Documents\Projects\DailyPlayers_v2-Copy\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.vbproj.GenerateResource.Cache
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.exe.config
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.exe
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.xml
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.pdb
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.exe
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.pdb
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.xml
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.vbprojResolveAssemblyReference.cache
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmDPv2.resources
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmPlayerSelect.resources
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmStuff.resources
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.Resources.resources
+C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.vbproj.GenerateResource.Cache

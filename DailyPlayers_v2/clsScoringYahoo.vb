@@ -1,0 +1,44 @@
+﻿Public Class clsScoringYahoo
+    Public Property PassingYards As Int64
+    Public Property PassingTDs As Int64
+    Public Property Interceptions As Int64
+    Public Property RushingYds As Int64
+    Public Property RushingTDs As Int64
+    Public Property Rushing2ptM As Int64
+    Public Property ReceivingYds As Int64
+    Public Property ReceivingTDs As Int64
+    Public Property Receiving2ptM As Int64
+    Public Property ReturnYds As Int64
+    Public Property ReturnTDs As Int64
+    Public Property TwoPTConversion As Int64
+    Public Property FumblesLost As Int64
+    Public Property OffenseFumblesTD As Int64
+    Public Property Plus40YdCompletion As Int64
+    Public Property Plus40YdTDs As Int64
+    Public Property Plus40YdRun As Int64
+    Public Property Plus40YdRunTD As Int64
+    Public Property Plus40YdReceiving As Int64
+    Public Property Plus40YdReceivingTD As Int64
+    Public Property Sack As Int64
+    Public Property DefInterception As Int64
+    Public Property DefFumbleRecovery As Int64
+    Public Property DefTD As Int64
+    Public Property DefSafety As Int64
+    Public Property DefBlockKick As Int64
+    Public Property DefKickPuntReturnTD As Int64
+    Public Property DefPA0 As Int64
+    Public Property DefPA6 As Int64
+    Public Property DefPA13 As Int64
+    Public Property DefPA20 As Int64
+    Public Property DefPA27 As Int64
+    Public Property DefPA34 As Int64
+    Public Property DefPA35 As Int64
+    Public Property DefXtraPointReturn As Int64
+    Public Property KickFG19 As Int64
+    Public Property KickFG29 As Int64
+    Public Property KickFG39 As Int64
+    Public Property KickFG49 As Int64
+    Public Property KickFG50 As Int64
+    Public Property KickPA As Int64
+
+End Class
