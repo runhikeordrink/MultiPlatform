@@ -37,3 +37,15 @@ C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPl
 C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmStuff.resources
 C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.Resources.resources
 C:\Users\Daddio\Documents\Projects\_InDevelopment\MyDailyPlayers_Desktop\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.vbproj.GenerateResource.Cache
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.exe.config
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.exe
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.pdb
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\bin\Debug\DailyPlayers_v2.xml
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmDPv2.resources
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmPlayerSelect.resources
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.frmStuff.resources
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.Resources.resources
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.vbproj.GenerateResource.Cache
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.exe
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.xml
+C:\Users\rasilva\Documents\Visual Studio 2013\Projects\MultiPlatform\DailyPlayers_v2\obj\Debug\DailyPlayers_v2.pdb

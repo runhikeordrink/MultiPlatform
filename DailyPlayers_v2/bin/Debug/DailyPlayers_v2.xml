@@ -6,225 +6,182 @@ DailyPlayers_v2
 </name>
 </assembly>
 <members>
-<member name="T:DailyPlayers_v2.dsNFLdb">
-<summary>
+<member name="T:DailyPlayers_v2.dsNFLdb.driveDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.gameDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.metaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.playDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.play_playerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.playerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.teamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.vwPlayersActiveDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.driveRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.gameRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.metaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.playRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.play_playerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.playerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.teamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.vwPlayersActiveRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.driveRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.gameRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.metaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.playRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.play_playerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.playerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.teamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb.vwPlayersActiveRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdb">
+	<summary>
 Represents a strongly typed in-memory cache of data.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.driveDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.gameDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.metaDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.playDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.play_playerDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.playerDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.teamDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.vwPlayersActiveDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.driveRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.gameRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.metaRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.playRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.play_playerRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.playerRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.teamRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.vwPlayersActiveRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.driveRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.gameRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.metaRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.playRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.play_playerRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.playerRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.teamRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdb.vwPlayersActiveRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.driveTableAdapter">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.driveTableAdapter">
+	<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.gameTableAdapter">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.gameTableAdapter">
+	<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.metaTableAdapter">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.metaTableAdapter">
+	<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.playTableAdapter">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.playTableAdapter">
+	<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.play_playerTableAdapter">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.play_playerTableAdapter">
+	<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.playerTableAdapter">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.playerTableAdapter">
+	<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.teamTableAdapter">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.teamTableAdapter">
+	<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.vwPlayersActiveTableAdapter">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.vwPlayersActiveTableAdapter">
+	<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager">
-<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member>
-<member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateUpdatedRows(DailyPlayers_v2.dsNFLdb,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
+</member><member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateUpdatedRows(DailyPlayers_v2.dsNFLdb,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
 Update rows in top-down order.
 </summary>
-</member>
-<member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateInsertedRows(DailyPlayers_v2.dsNFLdb,System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
+</member><member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateInsertedRows(DailyPlayers_v2.dsNFLdb,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
 Insert rows in top-down order.
 </summary>
-</member>
-<member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateDeletedRows(DailyPlayers_v2.dsNFLdb,System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
+</member><member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateDeletedRows(DailyPlayers_v2.dsNFLdb,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
 Delete rows in bottom-up order.
 </summary>
-</member>
-<member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
+</member><member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
 Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
 </summary>
-</member>
-<member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateAll(DailyPlayers_v2.dsNFLdb)">
-<summary>
+</member><member name="M:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateAll(DailyPlayers_v2.dsNFLdb)">
+	<summary>
 Update all changes to the dataset.
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateOrderOption">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
 Update Order Option
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.SelfReferenceComparer">
-<summary>
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
 Used to sort self-referenced table's rows
 </summary>
-</member>
-<member name="T:DailyPlayers_v2.My.Resources.Resources">
-<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
+</member><member name="T:DailyPlayers_v2.dsNFLdbTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
-</member>
-<member name="P:DailyPlayers_v2.My.Resources.Resources.ResourceManager">
-<summary>
+</member><member name="P:DailyPlayers_v2.My.Resources.Resources.ResourceManager">
+	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
-</member>
-<member name="P:DailyPlayers_v2.My.Resources.Resources.Culture">
-<summary>
+</member><member name="P:DailyPlayers_v2.My.Resources.Resources.Culture">
+	<summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DailyPlayers_v2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member>
 </members>
